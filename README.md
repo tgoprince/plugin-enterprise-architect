@@ -4,7 +4,7 @@ http://www.sparxsystems.com/enterprise_architect_user_guide/10/extending_uml_mod
 http://www.sparxsystems.com/enterprise_architect_user_guide/10/extending_uml_models/mdgtechnologies_2.html
 
 We have used MDG technology SDK in EA, a way of profiling UML through EA's interface. 
-The entire process goes like this: each EAP project generates a respective XML file that will be linked together to form the MDG file. 
+Each EAP project generates a respective XML file that will be linked together to form the MDG file. 
 There is an EAP project for profiling respectively: 
    - the UML diagram (/input/diagram.eap)
    - the UML toolbox (/input/tolbox.eap)
@@ -18,4 +18,4 @@ If you modify one of the EAP projects, you need to generate again their respecti
    - the UML patterns (/output/pattern/)
       - category.xml, mixin.xml, phasepartition.xml, relator.xml, rolemixin.xml, rolepartition.xml, subkindpartition.xml
 
-Then, with the MTS file "profile-mts" you can generate the MDG file /mdg/ontouml_2_0_technology.xml. This MTS file links together all XML files.
+Then, with the MTS file "profile-mts" you can generate the MDG file (/mdg/ontouml_2_0_technology.xml).
