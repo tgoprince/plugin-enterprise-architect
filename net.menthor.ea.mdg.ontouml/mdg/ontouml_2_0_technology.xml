@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<MDG.Technology version="1.0"><Documentation id="OntoUML" name="OntoUML 2.0" version="1.0.7" notes="Ontology-driven conceptual modeling using OntoUML2.0 notation."/><UMLProfiles><UMLProfile profiletype="uml2">
+<MDG.Technology version="1.0"><Documentation id="OntoUML" name="OntoUML 2.0" version="1.0.7" notes="Ontology-driven conceptual modeling using OntoUML2.0 notation." infoURI="http://menthor.net" supportURI="support@menthor.net"/><UMLProfiles><UMLProfile profiletype="uml2">
 			<Documentation id="672070D9-B" name="OntoUML" version="1.0" notes="OntoUML"/>
 			<Content>
 				<Stereotypes>
@@ -391,7 +391,7 @@ PgAAAGYBAAAAAA==</Image>
 								<Property name="compositionKind" value="Composite at Source"/>
 								<Property name="direction" value="Unspecified"/>
 								<Property name="_lineStyle" value="orthogonalS"/>
-								<Property name="_SourceMultiplicity" value="1..*"/>
+								<Property name="_SourceMultiplicity" value="1"/>
 								<Property name="_TargetMultiplicity" value="0..*"/>
 							</Apply>
 						</AppliesTo>

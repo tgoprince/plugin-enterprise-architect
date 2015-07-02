@@ -1,5 +1,5 @@
 <MDG.Selections model="C:\Users\Guerson\SVN\MENTHOR-TOOLS-MDG\trunk\net.menthor.ea.mdg.ontouml\input\profile.eap">
-	<Technology id="OntoUML" name="OntoUML 2.0" version="1.0.7" notes="Ontology-driven conceptual modeling using OntoUML2.0 notation." filename="C:\Users\Guerson\SVN\MENTHOR-TOOLS-MDG\trunk\net.menthor.ea.mdg.ontouml\mdg\ontouml_2_0_technology.xml"/>
+	<Technology id="OntoUML" name="OntoUML 2.0" version="1.0.7" notes="Ontology-driven conceptual modeling using OntoUML2.0 notation." filename="C:\Users\Guerson\SVN\MENTHOR-TOOLS-MDG\trunk\net.menthor.ea.mdg.ontouml\mdg\ontouml_2_0_technology.xml" infoURI="http://menthor.net" supportURI="support@menthor.net"/>
 	<Profiles directory="C:\Users\Guerson\SVN\MENTHOR-TOOLS-MDG\trunk\net.menthor.ea.mdg.ontouml\output\profile" files="profile.xml"/>
 	<Patterns directory="C:\Users\Guerson\SVN\MENTHOR-TOOLS-MDG\trunk\net.menthor.ea.mdg.ontouml\output\pattern" files="category.xml,mixin.xml,phasepartition.xml,relator.xml,rolemixin.xml,rolepartition.xml,subkindpartition.xml"/>
 	<DiagramProfile directory="C:\Users\Guerson\SVN\MENTHOR-TOOLS-MDG\trunk\net.menthor.ea.mdg.ontouml\output\diagram" files="diagram.xml"/>

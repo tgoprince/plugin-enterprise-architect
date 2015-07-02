@@ -391,7 +391,7 @@ PgAAAGYBAAAAAA==</Image>
 						<Property name="compositionKind" value="Composite at Source"/>
 						<Property name="direction" value="Unspecified"/>
 						<Property name="_lineStyle" value="orthogonalS"/>
-						<Property name="_SourceMultiplicity" value="1..*"/>
+						<Property name="_SourceMultiplicity" value="1"/>
 						<Property name="_TargetMultiplicity" value="0..*"/>
 					</Apply>
 				</AppliesTo>
