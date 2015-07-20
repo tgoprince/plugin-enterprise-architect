@@ -1,4 +1,4 @@
-# ontouml-mdg-ea
+# ea-plugin
 
 http://www.sparxsystems.com/enterprise_architect_user_guide/10/extending_uml_models/introduction_2.html
 http://www.sparxsystems.com/enterprise_architect_user_guide/10/extending_uml_models/mdgtechnologies_2.html
