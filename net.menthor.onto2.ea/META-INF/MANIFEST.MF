@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: net.menthor.onto2.ea;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Export-Package: net.menthor.onto2.ea
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-ActivationPolicy: lazy
