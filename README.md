@@ -1,14 +1,14 @@
 ## OntoUML2.0 - EA Plugin
 
-**User Guide: Installation**
+**USER GUIDE: Installation**
 
 - Close EA (if opened)
-- Move *ontouml_2_0_model_template.xml* to *Sparx Systems\EA\ModelPatterns\*
-- Move *ontouml_2_0_technology.xml* to *Sparx Systems\EA\MDGTechnologies\*
+- Move *ontouml_2_0_model_template.xml* to *"Sparx Systems\EA\ModelPatterns\"*
+- Move *ontouml_2_0_technology.xml* to *"Sparx Systems\EA\MDGTechnologies\"*
 
 That's it. Now you can just start EA and use the plugin.
 
-**Developer Guide: How we developed the plugin**
+**DEVELOPER GUIDE: How we developed the plugin**
 
 We have used MDG technology SDK in EA, a way of profiling UML through EA's interface. Each EAP project below is going to generate a respective XML file. All XML files are later on linked together to form the final plugin file.
 
