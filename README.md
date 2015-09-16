@@ -3,8 +3,8 @@
 **USER GUIDE: Installation**
 
 - Close EA (if opened)
-- Move *ontouml_2_0_model_template.xml* to *"Sparx Systems\EA\ModelPatterns\"*
-- Move *ontouml_2_0_technology.xml* to *"Sparx Systems\EA\MDGTechnologies\"*
+- Move *"ontouml_2_0_model_template.xml"* to *"Sparx Systems\EA\ModelPatterns\"*
+- Move *"ontouml_2_0_technology.xml"* to *"Sparx Systems\EA\MDGTechnologies\"*
 
 That's it. Now you can just start EA and use the plugin.
 
