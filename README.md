@@ -1,10 +1,11 @@
-# OntoUML2.0 EA Plugin
+## OntoUML2.0 EA Plugin
 
 **User Guide: Installation**
 
-Close EA (if opened)
-Move "ontouml_2_0_model_template.xml" to "Sparx Systems\EA\ModelPatterns\"
-Move "ontouml_2_0_technology.xml" to "Sparx Systems\EA\MDGTechnologies\"
+- Close EA (if opened)
+- Move "ontouml_2_0_model_template.xml" to "Sparx Systems\EA\ModelPatterns\"
+- Move "ontouml_2_0_technology.xml" to "Sparx Systems\EA\MDGTechnologies\"
+
 That's it. Now you can just start EA and use the plugin.
 
 **Developer Guide: How we developed the plugin**
