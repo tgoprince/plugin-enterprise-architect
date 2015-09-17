@@ -1,7 +1,7 @@
 ## OntoUML2.0 - EA Plugin
 
 **USER GUIDE: Installation**
-
+- Download latest plugin files ([link](https://github.com/MenthorTools/ea-plugin/releases)) 
 - Close EA (if opened)
 - Move "ontouml_2_0_model_template.xml" to "Sparx Systems\EA\ModelPatterns\"
 - Move "ontouml_2_0_technology.xml" to "Sparx Systems\EA\MDGTechnologies\"
