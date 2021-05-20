@@ -1,4 +1,4 @@
-## OntoUML2.0 - EA Plugin
+## OntoUML - EA Plugin
 
 **USER GUIDE: Installation**
 - Download latest plugin files ([link](https://github.com/MenthorTools/ea-plugin/releases)) 
